@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Jagdish-Sirvi02/Daile-PLE/tree/master/0162-find-peak-element) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Jagdish-Sirvi02/Daile-PLE/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Jagdish-Sirvi02/Daile-PLE/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
